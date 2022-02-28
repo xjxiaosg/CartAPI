@@ -12,7 +12,7 @@ spec:
         app: cart
     spec:
       containers:
-      - name: movie
+      - name: cart
         image: xjxiao/cartapi
         resources:
           limits:
